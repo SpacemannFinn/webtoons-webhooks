@@ -1,0 +1,53 @@
+{ 
+  "embeds":[
+    { 
+      "author": {
+        "name": "New Updates!",
+        "url": "http://www.webtoons.com/",
+        "icon_url": "https://cdn.discordapp.com/attachments/342431713106067476/348906406084214795/webtoons.png"
+      },
+      "description": "Here are the Unlisted Webtoons updates for today!",
+      "color":7506394,
+      "footer": {
+      "icon_url": "https://images-ext-2.discordapp.net/external/Q6kqI_kZqvFJbE8vf5Ew4ML6GNr7J1s60-EodXmgOZU/%3Fsize%3D128/https/cdn.discordapp.com/avatars/107599228900999168/b10254675d0aabb4fe6fe08c8b0a2776.jpg",
+      "text": "Friday | Created by <@107599228900999168>"
+      },  
+      "fields":[
+        { 
+          "name":":herb: Slice of Life:",
+          "value":"[Doodle for Food (Hiatus)](http://www.webtoons.com/en/slice-of-life/doodle-for-food/list?title_no=487)\n[Lunarbaboon](http://www.webtoons.com/en/slice-of-life/lunarbaboon/list?title_no=523)\n[Penguin Loves Mev](http://www.webtoons.com/en/slice-of-life/penguin-loves-mev/list?title_no=86)\n[]()",
+          "inline":true
+        },
+        { 
+          "name":":performing_arts: Drama:",
+          "value":"[Shard](http://www.webtoons.com/en/drama/shard/list?title_no=960)\n[]()",
+          "inline":true
+        },
+        { 
+          "name":":clapper: Action:",
+          "value":"[Hellper](http://www.webtoons.com/en/action/hellper/list?title_no=185)\n[]()",
+          "inline":true
+        },
+        { 
+         "name":":joy: Comedy:",
+         "value":"[dustinteractive](http://www.webtoons.com/en/comedy/dustinteractive/list?title_no=907)\n[The Sound of Your Heart](http://www.webtoons.com/en/comedy/the-sound-of-your-heart/list?title_no=269)\n[]()",
+         "inline": true
+        },
+        {
+         "name":":heart: Romance:",
+         "value":"None for today!",
+         "inline": true
+        },
+        { "name": ":sparkles: Fantasy:",
+          "value": "[Hooky](http://www.webtoons.com/en/fantasy/hooky/list?title_no=425)\n[I Don't Want This Kind of Hero](http://www.webtoons.com/en/fantasy/i-dont-want-this-kind-of-hero/list?title_no=98)\n[Inarime](http://www.webtoons.com/en/fantasy/inarime/list?title_no=675)\n[Newman](http://www.webtoons.com/en/fantasy/newman/list?title_no=405)\n[Spirits](http://www.webtoons.com/en/fantasy/spirits/list?title_no=752)\n[The Strange Tales of Oscar Zahn](http://www.webtoons.com/en/fantasy/the-strange-tales-of-oscar-zahn/list?title_no=685)",
+          "inline": true
+        },
+        { 
+          "name": ":question: Other:",
+          "value": "[Denma](http://www.webtoons.com/en/sf/denma/list?title_no=921)\n[]()",
+          "inline": true
+        } 
+      ] 
+    } 
+  ] 
+}
