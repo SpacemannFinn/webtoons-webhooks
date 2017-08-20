@@ -1,0 +1,53 @@
+{ 
+  "embeds":[
+    { 
+      "author": {
+        "name": "New Updates!",
+        "url": "http://www.webtoons.com/",
+        "icon_url": "https://cdn.discordapp.com/attachments/342431713106067476/348906406084214795/webtoons.png"
+      },
+      "description": "Here are the Unlisted Webtoons updates for today!",
+      "color":7506394,
+      "footer": {
+      "icon_url": "https://images-ext-1.discordapp.net/external/XdgAEFLGHHh66-T5pcZ7Y9YUfnqo1AEyzNpJ6o90xVg/%3Fsize%3D128/https/cdn.discordapp.com/avatars/332369694839275521/b573c2354a8542ba6b3058f7ba5eb5ac.jpg",
+      "text": "Monday | Created by <@332369694839275521>"
+      },  
+      "fields":[
+        { 
+          "name":":herb: Slice of Life:",
+          "value":"[Lunarbaboon](http://www.webtoons.com/en/slice-of-life/lunarbaboon/list?title_no=523)\n[]()",
+          "inline":true
+        },
+        { 
+          "name":":performing_arts: Drama:",
+          "value":"[Heroine Chic](http://www.webtoons.com/en/drama/heroine-chic/list?title_no=561)\n[]()",
+          "inline":true
+        },
+        { 
+          "name":":clapper: Action:",
+          "value":"None for today!",
+          "inline":true
+        },
+        { 
+         "name":":joy: Comedy:",
+          "value":"[dustinteractive](http://www.webtoons.com/en/comedy/dustinteractive/list?title_no=907)\n[MercWorks](http://www.webtoons.com/en/comedy/mercworks/list?title_no=426)\n[Safely Endangered](http://www.webtoons.com/en/comedy/safely-endangered/list?title_no=352)\n[]()",
+          "inline": true
+        },
+        {
+         "name":":heart: Romance:",
+          "value":"None for today!",
+          "inline": true
+        },
+        { "name": ":sparkles: Fantasy:",
+          "value":"[Kubera](http://www.webtoons.com/en/fantasy/kubera/list?title_no=83)\n[Sithrah](http://www.webtoons.com/en/fantasy/sithrah/list?title_no=524)\n[Trump](http://www.webtoons.com/en/fantasy/trump/list?title_no=84)\n[]()",
+         "inline": true
+        },
+        { 
+          "name": ":question: Other:",
+          "value":"[Big Jo](http://www.webtoons.com/en/heartwarming/big-jo/list?title_no=854)\n[Wind Breaker](http://www.webtoons.com/en/sports/wind-breaker/list?title_no=372)",
+          "inline": true
+        } 
+      ] 
+    } 
+  ] 
+}
