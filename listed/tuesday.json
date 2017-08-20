@@ -1,0 +1,53 @@
+{ 
+  "embeds":[
+    { 
+      "author": {
+        "name": "New Updates!",
+        "url": "http://www.webtoons.com/",
+        "icon_url": "https://cdn.discordapp.com/attachments/342431713106067476/348906406084214795/webtoons.png"
+      },
+      "description": "Here are the Webtoons updates for today!",
+      "color":7506394,
+      "footer": {
+      "icon_url": "https://images-ext-2.discordapp.net/external/Q6kqI_kZqvFJbE8vf5Ew4ML6GNr7J1s60-EodXmgOZU/%3Fsize%3D128/https/cdn.discordapp.com/avatars/107599228900999168/b10254675d0aabb4fe6fe08c8b0a2776.jpg",
+      "text": "Tuesday | Created by <@107599228900999168>"
+      },  
+      "fields":[
+        { 
+          "name":":herb: Slice of Life:",
+          "value":"[A Budgie's Life](http://www.webtoons.com/en/slice-of-life/its-a-budgies-life/list?title_no=985",
+          "inline":true
+        },
+        { 
+          "name":":performing_arts: Drama:",
+          "value":"[Lookism](http://www.webtoons.com/en/drama/lookism/list?title_no=1049)",
+          "inline":true
+        },
+        { 
+          "name":":clapper: Action:",
+          "value":"None for today!",
+          "inline":true
+        },
+        { 
+         "name":":joy: Comedy:",
+         "value":"[Behind the GIFs](http://www.webtoons.com/en/comedy/behind-the-gifs/list?title_no=658)\n[Bluechair](http://www.webtoons.com/en/comedy/bluechair/list?title_no=199)\n[Boyfriend of the Dead](http://www.webtoons.com/en/comedy/boyfriend-of-the-dead/list?title_no=1102)\n[Adventures of God](http://www.webtoons.com/en/comedy/adventures-of-god/list?title_no=853)",
+         "inline": true
+        },
+        {
+         "name":":heart: Romance:",
+         "value": "None for today!",
+         "inline": true
+        },
+        { "name": ":sparkles: Fantasy:",
+          "value": "[Noblesse](http://www.webtoons.com/en/fantasy/noblesse/list?title_no=87)",
+          "inline": true
+        },
+        { 
+          "name": ":question: Other:",
+          "value": "None for today!",
+          "inline": true
+        } 
+      ] 
+    } 
+  ] 
+}

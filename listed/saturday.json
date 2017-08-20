@@ -1,0 +1,53 @@
+{ 
+  "embeds":[
+    { 
+      "author": {
+        "name": "New Updates!",
+        "url": "http://www.webtoons.com/",
+        "icon_url": "https://cdn.discordapp.com/attachments/342431713106067476/348906406084214795/webtoons.png"
+      },
+      "description": "Here are the Webtoons updates for today!",
+      "color":7506394,
+      "footer": {
+      "icon_url": "https://images-ext-2.discordapp.net/external/Q6kqI_kZqvFJbE8vf5Ew4ML6GNr7J1s60-EodXmgOZU/%3Fsize%3D128/https/cdn.discordapp.com/avatars/107599228900999168/b10254675d0aabb4fe6fe08c8b0a2776.jpg",
+      "text": "Saturday | Created by <@107599228900999168>"
+      },  
+      "fields":[
+        { 
+          "name":":herb: Slice of Life:",
+          "value":"[Roar Street Journal](http://www.webtoons.com/en/slice-of-life/roar-street-journal/list?title_no=397)\n[Saphie: The One-Eyed Cat](http://www.webtoons.com/en/slice-of-life/saphie-one-eyed-cat/list?title_no=670)",
+          "inline":true
+        },
+        { 
+          "name":":performing_arts: Drama:",
+          "value":"None for today!",
+          "inline":true
+        },
+        { 
+          "name":":clapper: Action:",
+          "value":"None for today!",
+          "inline":true
+        },
+        { 
+         "name":":joy: Comedy:",
+         "value":"[Bluechair](http://www.webtoons.com/en/comedy/bluechair/list?title_no=199)\n[The DaneMen](http://www.webtoons.com/en/comedy/the-danemen/list?title_no=395)\n[Adventures of God](http://www.webtoons.com/en/comedy/adventures-of-god/list?title_no=853)",
+         "inline": true
+        },
+        {
+         "name":":heart: Romance:",
+         "value": "[Miss Abbott and the Doctor](http://www.webtoons.com/en/romance/miss-abbott-and-the-doctor/list?title_no=707)\n[Siren's Lament](http://www.webtoons.com/en/romance/sirens-lament/list?title_no=632)\n[Yumi's Cells](http://www.webtoons.com/en/romance/yumi-cell/list?title_no=478)",
+         "inline": true
+        },
+        { "name": ":sparkles: Fantasy:",
+          "value": "None for today!",
+          "inline": true
+        },
+        { 
+          "name": ":question: Other:",
+          "value": "None for today!",
+          "inline": true
+        } 
+      ] 
+    } 
+  ] 
+}

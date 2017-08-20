@@ -1,0 +1,53 @@
+{ 
+  "embeds":[
+    { 
+      "author": {
+        "name": "New Updates!",
+        "url": "http://www.webtoons.com/",
+        "icon_url": "https://cdn.discordapp.com/attachments/342431713106067476/348906406084214795/webtoons.png"
+      },
+      "description": "Here are the Webtoons updates for today!",
+      "color":7506394,
+      "footer": {
+      "icon_url": "https://images-ext-2.discordapp.net/external/Q6kqI_kZqvFJbE8vf5Ew4ML6GNr7J1s60-EodXmgOZU/%3Fsize%3D128/https/cdn.discordapp.com/avatars/107599228900999168/b10254675d0aabb4fe6fe08c8b0a2776.jpg",
+      "text": "Sunday | Created by <@107599228900999168>"
+      },  
+      "fields":[
+        { 
+          "name":":herb: Slice of Life:",
+          "value":"[A Budgie's Life](http://www.webtoons.com/en/slice-of-life/its-a-budgies-life/list?title_no=985)\n[Saphie: The One-Eyed Cat](http://www.webtoons.com/en/slice-of-life/saphie-one-eyed-cat/list?title_no=670)",
+          "inline":true
+        },
+        { 
+          "name":":performing_arts: Drama:",
+          "value":"[Lookism](http://www.webtoons.com/en/drama/lookism/list?title_no=1049)\n[LUMINE](http://www.webtoons.com/en/drama/lumine/list?title_no=1022)",
+          "inline":true
+        },
+        { 
+          "name":":clapper: Action:",
+          "value":"None for today!",
+          "inline":true
+        },
+        { 
+         "name":":joy: Comedy:",
+         "value":"[Live with Yourself!](http://www.webtoons.com/en/comedy/live-with-yourself/list?title_no=919)",
+         "inline": true
+        },
+        {
+         "name":":heart: Romance:",
+         "value": "None for today!",
+         "inline": true
+        },
+        { "name": ":sparkles: Fantasy:",
+          "value": "None for today!",
+          "inline": true
+        },
+        { 
+          "name": ":question: Other:",
+          "value": "None for today!",
+          "inline": true
+        } 
+      ] 
+    } 
+  ] 
+}

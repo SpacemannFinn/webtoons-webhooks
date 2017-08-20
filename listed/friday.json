@@ -1,0 +1,53 @@
+{ 
+  "embeds":[
+    { 
+      "author": {
+        "name": "New Updates!",
+        "url": "http://www.webtoons.com/",
+        "icon_url": "https://cdn.discordapp.com/attachments/342431713106067476/348906406084214795/webtoons.png"
+      },
+      "description": "Here are the Webtoons updates for today!",
+      "color":7506394,
+      "footer": {
+      "icon_url": "https://images-ext-2.discordapp.net/external/Q6kqI_kZqvFJbE8vf5Ew4ML6GNr7J1s60-EodXmgOZU/%3Fsize%3D128/https/cdn.discordapp.com/avatars/107599228900999168/b10254675d0aabb4fe6fe08c8b0a2776.jpg",
+      "text": "Friday | Created by <@107599228900999168>"
+      },  
+      "fields":[
+        { 
+          "name":":herb: Slice of Life:",
+          "value":"[My Giant Nerd Boyfriend](http://www.webtoons.com/en/slice-of-life/my-giant-nerd-boyfriend/list?title_no=958)",
+          "inline":true
+        },
+        { 
+          "name":":performing_arts: Drama:",
+          "value":"None for today!",
+          "inline":true
+        },
+        { 
+          "name":":clapper: Action:",
+          "value":"[The God of Highschool](http://www.webtoons.com/en/action/the-god-of-high-school/list?title_no=66)\n[Nano List](http://www.webtoons.com/en/action/nano-list/list?title_no=700)",
+          "inline":true
+        },
+        { 
+         "name":":joy: Comedy:",
+         "value":"[Behind the GIFs](http://www.webtoons.com/en/comedy/behind-the-gifs/list?title_no=658)\n[Boyfriend of the Dead](http://www.webtoons.com/en/comedy/boyfriend-of-the-dead/list?title_no=1102)",
+         "inline": true
+        },
+        {
+         "name":":heart: Romance:",
+         "value": "[I Love Yoo](http://www.webtoons.com/en/romance/i-love-yoo/list?title_no=986)",
+         "inline": true
+        },
+        { "name": ":sparkles: Fantasy:",
+          "value": "[Athena Complex](http://www.webtoons.com/en/fantasy/athena-complex/list?title_no=867)\n[Nightmare Factory](http://www.webtoons.com/en/fantasy/nightmare-factory/list?title_no=616)\n[The Gamer](http://www.webtoons.com/en/fantasy/the-gamer/list?title_no=88)",
+          "inline": true
+        },
+        { 
+          "name": ":question: Other:",
+          "value": "None for today!",
+          "inline": true
+        } 
+      ] 
+    } 
+  ] 
+}

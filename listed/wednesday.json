@@ -1,0 +1,53 @@
+{ 
+  "embeds":[
+    { 
+      "author": {
+        "name": "New Updates!",
+        "url": "http://www.webtoons.com/",
+        "icon_url": "https://cdn.discordapp.com/attachments/342431713106067476/348906406084214795/webtoons.png"
+      },
+      "description": "Here are the Webtoons updates for today!",
+      "color":7506394,
+      "footer": {
+      "icon_url": "https://images-ext-2.discordapp.net/external/Q6kqI_kZqvFJbE8vf5Ew4ML6GNr7J1s60-EodXmgOZU/%3Fsize%3D128/https/cdn.discordapp.com/avatars/107599228900999168/b10254675d0aabb4fe6fe08c8b0a2776.jpg",
+      "text": "Wednesday | Created by <@107599228900999168>"
+      },  
+      "fields":[
+        { 
+          "name":":herb: Slice of Life:",
+          "value":"[My Giant Nerd Boyfriend](http://www.webtoons.com/en/slice-of-life/my-giant-nerd-boyfriend/list?title_no=958)\n[Roar Street Journal](http://www.webtoons.com/en/slice-of-life/roar-street-journal/list?title_no=397)",
+          "inline":true
+        },
+        { 
+          "name":":performing_arts: Drama:",
+          "value":"None for today!",
+          "inline":true
+        },
+        { 
+          "name":":clapper: Action:",
+          "value":"None for today!",
+          "inline":true
+        },
+        { 
+         "name":":joy: Comedy:",
+         "value":"[Behind the GIFs](http://www.webtoons.com/en/comedy/behind-the-gifs/list?title_no=658)",
+         "inline": true
+        },
+        {
+         "name":":heart: Romance:",
+         "value": "[Super Secret](http://www.webtoons.com/en/romance/super-secret/list?title_no=666)\n[Yumi's Cells](http://www.webtoons.com/en/romance/yumi-cell/list?title_no=478)",
+         "inline": true
+        },
+        { "name": ":sparkles: Fantasy:",
+          "value": "[DICE](http://www.webtoons.com/en/fantasy/dice/list?title_no=64)\n[Rise from Ashes](http://www.webtoons.com/en/fantasy/rise-from-ashes/list?title_no=959)",
+          "inline": true
+        },
+        { 
+          "name": ":question: Other:",
+          "value": "None for today!",
+          "inline": true
+        } 
+      ] 
+    } 
+  ] 
+}

@@ -1,0 +1,53 @@
+{ 
+  "embeds":[
+    { 
+      "author": {
+        "name": "New Updates!",
+        "url": "http://www.webtoons.com/",
+        "icon_url": "https://cdn.discordapp.com/attachments/342431713106067476/348906406084214795/webtoons.png"
+      },
+      "description": "Here are the Webtoons updates for today!",
+      "color":7506394,
+      "footer": {
+      "icon_url": "https://images-ext-2.discordapp.net/external/Q6kqI_kZqvFJbE8vf5Ew4ML6GNr7J1s60-EodXmgOZU/%3Fsize%3D128/https/cdn.discordapp.com/avatars/107599228900999168/b10254675d0aabb4fe6fe08c8b0a2776.jpg",
+      "text": "Monday | Created by <@107599228900999168>"
+      },  
+      "fields":[
+        { 
+          "name":":herb: Slice of Life:",
+          "value":"[A Budgie's Life](http://www.webtoons.com/en/slice-of-life/its-a-budgies-life/list?title_no=985)\n[My Giant Nerd Boyfriend](http://www.webtoons.com/en/slice-of-life/my-giant-nerd-boyfriend/list?title_no=958)",
+          "inline":true
+        },
+        { 
+          "name":":performing_arts: Drama:",
+          "value":"Nothing for today!",
+          "inline":true
+        },
+        { 
+          "name":":clapper: Action:",
+          "value":"None for today!",
+          "inline":true
+        },
+        { 
+         "name":":joy: Comedy:",
+         "value":"[As Per Usual](http://www.webtoons.com/en/comedy/as-per-usual/list?title_no=599)\n[The DaneMen](http://www.webtoons.com/en/comedy/the-danemen/list?title_no=395)",
+         "inline": true
+        },
+        {
+         "name":":heart: Romance:",
+         "value": "[Oh! Holy](http://www.webtoons.com/en/romance/oh-holy/list?title_no=809)",
+         "inline": true
+        },
+        { "name": ":sparkles: Fantasy:",
+          "value": "[Tower of God](http://www.webtoons.com/en/fantasy/tower-of-god/list?title_no=95)",
+          "inline": true
+        },
+        { 
+          "name": ":question: Other:",
+          "value": "[HIVE](http://www.webtoons.com/en/thriller/hive/list?title_no=65)",
+          "inline": true
+        } 
+      ] 
+    } 
+  ] 
+}
