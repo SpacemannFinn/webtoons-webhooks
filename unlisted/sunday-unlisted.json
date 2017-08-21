@@ -1,0 +1,53 @@
+{ 
+  "embeds":[
+    { 
+      "author": {
+        "name": "New Updates!",
+        "url": "http://www.webtoons.com/",
+        "icon_url": "https://cdn.discordapp.com/attachments/342431713106067476/348906406084214795/webtoons.png"
+      },
+      "description": "Here are the Unlisted Webtoons updates for today!",
+      "color":7506394,
+      "footer": {
+      "icon_url": "https://images-ext-1.discordapp.net/external/XdgAEFLGHHh66-T5pcZ7Y9YUfnqo1AEyzNpJ6o90xVg/%3Fsize%3D128/https/cdn.discordapp.com/avatars/332369694839275521/b573c2354a8542ba6b3058f7ba5eb5ac.jpg",
+      "text": "Sunday | Created by <@332369694839275521>"
+      },   
+      "fields":[
+        { 
+          "name":":herb: Slice of Life:",
+          "value":"[Average Adventures of an Average Girl](http://www.webtoons.com/en/slice-of-life/average-adventures-of-an-average-girl/list?title_no=401)\n[Hello World!](http://www.webtoons.com/en/slice-of-life/hello-world/list?title_no=827)\n[]()",
+          "inline":true
+        },
+        { 
+          "name":":performing_arts: Drama:",
+          "value":"[]()",
+          "inline":true
+        },
+        { 
+          "name":":clapper: Action:",
+          "value":"[GOSU](http://www.webtoons.com/en/action/gosu/list?title_no=1099)\n[]()",
+          "inline":true
+        },
+        { 
+         "name":":joy: Comedy:",
+          "value":"[HAPI BUNI](http://www.webtoons.com/en/comedy/hapi-buni/list?title_no=362)\n[New Normal: Class 8](http://www.webtoons.com/en/comedy/new-normal-class-8/list?title_no=100)\n[RANDOMPHILIA](http://www.webtoons.com/en/comedy/randomphilia/list?title_no=386)\n[She is a Vampire](http://www.webtoons.com/en/romance/she-is-a-vampire/list?title_no=900)",
+          "inline": true
+        },
+        {
+         "name":":heart: Romance:",
+          "value":"[Cheese in the Trap](http://www.webtoons.com/en/romance/cheese-in-the-trap/list?title_no=99)\n[My Dear Cold Blooded King](http://www.webtoons.com/en/romance/my-dear-cold-blooded-king/list?title_no=961)\n[]()",
+          "inline": true
+        },
+        { "name": ":sparkles: Fantasy:",
+          "value":"[Faust](http://www.webtoons.com/en/fantasy/faust/list?title_no=522)\n[Magician](http://www.webtoons.com/en/fantasy/magician/list?title_no=70)\n[]()",
+         "inline": true
+        },
+        { 
+          "name": ":question: Other:",
+          "value":"[Denma](http://www.webtoons.com/en/sf/denma/list?title_no=921)\n[]()",
+          "inline": true
+        } 
+      ] 
+    } 
+  ] 
+}
