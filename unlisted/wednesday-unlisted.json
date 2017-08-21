@@ -1,0 +1,53 @@
+{ 
+  "embeds":[
+    { 
+      "author": {
+        "name": "New Updates!",
+        "url": "http://www.webtoons.com/",
+        "icon_url": "https://cdn.discordapp.com/attachments/342431713106067476/348906406084214795/webtoons.png"
+      },
+      "description": "Here are the Unlisted Webtoons updates for today!",
+      "color":7506394,
+      "footer": {
+      "icon_url": "https://images-ext-1.discordapp.net/external/XdgAEFLGHHh66-T5pcZ7Y9YUfnqo1AEyzNpJ6o90xVg/%3Fsize%3D128/https/cdn.discordapp.com/avatars/332369694839275521/b573c2354a8542ba6b3058f7ba5eb5ac.jpg",
+      "text": "Wednesday | Created by <@332369694839275521>"
+      },   
+      "fields":[
+        { 
+          "name":":herb: Slice of Life:",
+          "value":"None for today!",
+          "inline":true
+        },
+        { 
+          "name":":performing_arts: Drama:",
+          "value":"None for today!",
+          "inline":true
+        },
+        { 
+          "name":":clapper: Action:",
+          "value":"[Darbi](http://www.webtoons.com/en/action/darbi/list?title_no=1098)\n[]()",
+          "inline":true
+        },
+        { 
+         "name":":joy: Comedy:",
+          "value":"[dustinteractive](http://www.webtoons.com/en/comedy/dustinteractive/list?title_no=907)\n[Safely Endangered](http://www.webtoons.com/en/comedy/safely-endangered/list?title_no=352)\n[The Gentleman's Armchair](http://www.webtoons.com/en/comedy/the-gentlemans-armchair/list?title_no=469)\n[]()",
+          "inline": true
+        },
+        {
+         "name":":heart: Romance:",
+          "value":"None for today!",
+          "inline": true
+        },
+        { "name": ":sparkles: Fantasy:",
+          "value":"[Elf & Warrior](http://www.webtoons.com/en/fantasy/elf-and-warrior/list?title_no=908)\n[Fantasy Sketch - The Game](http://www.webtoons.com/en/fantasy/fantasy-sketch/list?title_no=1020)\n[LESSA 2 - The Crimson Knight](http://www.webtoons.com/en/fantasy/lessa-2/list?title_no=507)\n[Sword Interval](http://www.webtoons.com/en/fantasy/sword-interval/list?title_no=486)\n[]()",
+         "inline": true
+        },
+        { 
+          "name": ":question: Other:",
+          "value":"[Cyberpunk](http://www.webtoons.com/en/sf/cyberbunk/list?title_no=466)\n[Denma](http://www.webtoons.com/en/sf/denma/list?title_no=921)\n[Tales of the Unusual](http://www.webtoons.com/en/thriller/tales-of-the-unusual/list?title_no=68)\n[XINK3R](http://www.webtoons.com/en/super-hero/xinker/list?title_no=541)",
+          "inline": true
+        } 
+      ] 
+    } 
+  ] 
+}
