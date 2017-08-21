@@ -1,0 +1,53 @@
+{ 
+  "embeds":[
+    { 
+      "author": {
+        "name": "New Updates!",
+        "url": "http://www.webtoons.com/",
+        "icon_url": "https://cdn.discordapp.com/attachments/342431713106067476/348906406084214795/webtoons.png"
+      },
+      "description": "Here are the Unlisted Webtoons updates for today!",
+      "color":7506394,
+      "footer": {
+      "icon_url": "https://images-ext-1.discordapp.net/external/XdgAEFLGHHh66-T5pcZ7Y9YUfnqo1AEyzNpJ6o90xVg/%3Fsize%3D128/https/cdn.discordapp.com/avatars/332369694839275521/b573c2354a8542ba6b3058f7ba5eb5ac.jpg",
+      "text": "Thursday | Created by <@332369694839275521>"
+      },   
+      "fields":[
+        { 
+          "name":":herb: Slice of Life:",
+          "value":"[Cooking Comically](http://www.webtoons.com/en/slice-of-life/cooking-comically/list?title_no=622)\n[Doodle for Food](http://www.webtoons.com/en/slice-of-life/doodle-for-food/list?title_no=487)\n[Penguin Loves Mev](http://www.webtoons.com/en/slice-of-life/penguin-loves-mev/list?title_no=86)\n[]()",
+          "inline":true
+        },
+        { 
+          "name":":performing_arts: Drama:",
+          "value":"[Power Ballad](http://www.webtoons.com/en/drama/power-ballad/list?title_no=987)\n[Space Boy](http://www.webtoons.com/en/drama/space-boy/list?title_no=400)\n[]()",
+          "inline":true
+        },
+        { 
+          "name":":clapper: Action:",
+          "value":"None for today!",
+          "inline":true
+        },
+        { 
+         "name":":joy: Comedy:",
+          "value":"[Polidiocy](http://www.webtoons.com/en/comedy/polidiocy/list?title_no=676)\n[Safely Endangered](http://www.webtoons.com/en/comedy/safely-endangered/list?title_no=352)\n[]()",
+          "inline": true
+        },
+        {
+         "name":":heart: Romance:",
+          "value":"[Ecstasy Hearts](http://www.webtoons.com/en/romance/ecstasy-hearts/list?title_no=604)\n[Warning Label](http://www.webtoons.com/en/romance/warning-label/list?title_no=1051)",
+          "inline": true
+        },
+        { "name": ":sparkles: Fantasy:",
+          "value":"[Firebrand (Hiatus)](http://www.webtoons.com/en/fantasy/firebrand/list?title_no=877)\n[Ghosts Among the Wild Flowers](http://www.webtoons.com/en/fantasy/ghosts-over-wild-flowers/list?title_no=718)\n[Mirror (Hiatus)](http://www.webtoons.com/en/fantasy/mirror/list?title_no=868)\n[Underprin](http://www.webtoons.com/en/fantasy/underprin/list?title_no=78)\n[Winter Moon (Hiatus)](http://www.webtoons.com/en/fantasy/winter-moon/list?title_no=1093)",
+         "inline": true
+        },
+        { 
+          "name": ":question: Other:",
+          "value":"[Denma](http://www.webtoons.com/en/sf/denma/list?title_no=921)\n[Dents](http://www.webtoons.com/en/sf/dents/list?title_no=671)\n[]()",
+          "inline": true
+        } 
+      ] 
+    } 
+  ] 
+}
