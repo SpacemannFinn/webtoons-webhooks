@@ -1,0 +1,53 @@
+{ 
+  "embeds":[
+    { 
+      "author": {
+        "name": "New Updates!",
+        "url": "http://www.webtoons.com/",
+        "icon_url": "https://cdn.discordapp.com/attachments/342431713106067476/348906406084214795/webtoons.png"
+      },
+      "description": "Here are the Unlisted Webtoons updates for today!",
+      "color":7506394,
+      "footer": {
+      "icon_url": "https://images-ext-1.discordapp.net/external/XdgAEFLGHHh66-T5pcZ7Y9YUfnqo1AEyzNpJ6o90xVg/%3Fsize%3D128/https/cdn.discordapp.com/avatars/332369694839275521/b573c2354a8542ba6b3058f7ba5eb5ac.jpg",
+      "text": "Tuesday | Created by <@332369694839275521>"
+      },   
+      "fields":[
+        { 
+          "name":":herb: Slice of Life:",
+          "value":"[Lunarbaboon](http://www.webtoons.com/en/slice-of-life/lunarbaboon/list?title_no=523)\n[Nicholalala](http://webtoon.phinf.naver.net/20160930_245/1475205486833pCaHC_JPEG/thumb_ipad.jpg?type=a138)\n[]()",
+          "inline":true
+        },
+        { 
+          "name":":performing_arts: Drama:",
+          "value":"[All That You Are (Hiatus)](http://www.webtoons.com/en/drama/all-that-you-are/list?title_no=403)\n[Bite Me](http://www.webtoons.com/en/drama/bite-me/list?title_no=1019)\n[]()",
+          "inline":true
+        },
+        { 
+          "name":":clapper: Action:",
+          "value":"None for today!",
+          "inline":true
+        },
+        { 
+         "name":":joy: Comedy:",
+          "value":"[Immortal Nerd](http://www.webtoons.com/en/comedy/immortal-nerd/list?title_no=579)\n[MOONBEARD](http://www.webtoons.com/en/comedy/moon-beard/list?title_no=471)\n[RANDOMPHILIA](http://www.webtoons.com/en/comedy/randomphilia/list?title_no=386)\n[The Sound of Your Heart](http://www.webtoons.com/en/comedy/the-sound-of-your-heart/list?title_no=269)\n[Trash Bird](http://www.webtoons.com/en/comedy/trash-bird/list?title_no=473)\n[]()",
+          "inline": true
+        },
+        {
+         "name":":heart: Romance:",
+          "value":"[Assassin Roommate](http://www.webtoons.com/en/romance/assassin-roommate/list?title_no=1050)\n[]()",
+          "inline": true
+        },
+        { "name": ":sparkles: Fantasy:",
+          "value":"[Knight Run](http://www.webtoons.com/en/fantasy/knight-run/list?title_no=67)\n[Winter Moon (Hiatus)](http://www.webtoons.com/en/fantasy/winter-moon/list?title_no=1093)",
+         "inline": true
+        },
+        { 
+          "name": ":question: Other:",
+          "value":"[Supersonic Girl](http://www.webtoons.com/en/super-hero/supersonic-girl/list?title_no=633)\n[The Badguys](http://www.webtoons.com/en/super-hero/the-bad-guys/list?title_no=701)",
+          "inline": true
+        } 
+      ] 
+    } 
+  ] 
+}
