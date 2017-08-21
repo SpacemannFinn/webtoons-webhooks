@@ -1,0 +1,53 @@
+{ 
+  "embeds":[
+    { 
+      "author": {
+        "name": "New Updates!",
+        "url": "http://www.webtoons.com/",
+        "icon_url": "https://cdn.discordapp.com/attachments/342431713106067476/348906406084214795/webtoons.png"
+      },
+      "description": "Here are the Unlisted Webtoons updates for today!",
+      "color":7506394,
+      "footer": {
+      "icon_url": "https://images-ext-1.discordapp.net/external/XdgAEFLGHHh66-T5pcZ7Y9YUfnqo1AEyzNpJ6o90xVg/%3Fsize%3D128/https/cdn.discordapp.com/avatars/332369694839275521/b573c2354a8542ba6b3058f7ba5eb5ac.jpg",
+      "text": "Saturday | Created by <@332369694839275521>"
+      },   
+      "fields":[
+        { 
+          "name":":herb: Slice of Life:",
+          "value":"[Girls Have a Blog](http://www.webtoons.com/en/slice-of-life/girls-have-a-blog/list?title_no=1052)\n[Hello World!](http://www.webtoons.com/en/slice-of-life/hello-world/list?title_no=827)",
+          "inline":true
+        },
+        { 
+          "name":":performing_arts: Drama:",
+          "value":"None for today!",
+          "inline":true
+        },
+        { 
+          "name":":clapper: Action:",
+          "value":"[GOSU](http://www.webtoons.com/en/action/gosu/list?title_no=1099)\n[]()",
+          "inline":true
+        },
+        { 
+         "name":":joy: Comedy:",
+          "value":"[Apocolyptic Horseplay](http://www.webtoons.com/en/comedy/apocalyptic-horseplay/list?title_no=635)\n[]()",
+          "inline": true
+        },
+        {
+         "name":":heart: Romance:",
+          "value":"[Late Bloomer](http://www.webtoons.com/en/romance/late-bloomer/list?title_no=988)\n[]()",
+          "inline": true
+        },
+        { "name": ":sparkles: Fantasy:",
+          "value":"[Guardians of the Video Game](http://www.webtoons.com/en/fantasy/guardians-of-the-video-game/list?title_no=368)\n[S.I.D.](http://www.webtoons.com/en/fantasy/sid/list?title_no=497)\n[Soul Cartel](http://www.webtoons.com/en/fantasy/soul-cartel/list?title_no=72)\n[Winter Moon (Hiatus)](http://www.webtoons.com/en/fantasy/winter-moon/list?title_no=1093)",
+         "inline": true
+        },
+        { 
+          "name": ":question: Other:",
+          "value":"[Adamsville](http://www.webtoons.com/en/thriller/adamsville/list?title_no=502)\n[Denma](http://www.webtoons.com/en/sf/denma/list?title_no=921)\n[]()",
+          "inline": true
+        } 
+      ] 
+    } 
+  ] 
+}
